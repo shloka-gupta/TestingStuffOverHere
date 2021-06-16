@@ -9,9 +9,9 @@ Before proceeding further, make sure you have the following prerequisites setup:
 
 Prerequisites
 -------------
-* `Python 3.7 <https://www.python.org/downloads/windows/>`_
-* `Microsoft Access Database Driver <https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15>`_
-* `Visual C++ Redistributable Packages <https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0>`_
+* `Python 3.7 <GCBMDevelopmentSetup/prerequisites/python_3.7.html>`_
+* `Microsoft Access Database Driver <GCBMDevelopmentSetup/prerequisites/microsoft_access_database_driver.html>`_
+* `Visual C++ Redistributable Packages <GCBMDevelopmentSetup/prerequisites/visual_c++_redistributable_packages.html>`_
 
 Now that you have all the necessary prerequisites, you can proceed with the Installation.
 
