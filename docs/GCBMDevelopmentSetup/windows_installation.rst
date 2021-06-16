@@ -9,7 +9,7 @@ Before proceeding further, make sure you have the following prerequisites setup:
 
 Prerequisites
 -------------
-* `Python 3.7 <GCBMDevelopmentSetup/prerequisites/python_3.7.html>`_
+* `Python 3.7 <GCBMDevelopmentSetup/prerequisites.rst>`_
 * `Microsoft Access Database Driver <GCBMDevelopmentSetup/prerequisites/microsoft_access_database_driver.html>`_
 * `Visual C++ Redistributable Packages <GCBMDevelopmentSetup/prerequisites/visual_c++_redistributable_packages.html>`_
 
