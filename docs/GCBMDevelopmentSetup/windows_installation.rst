@@ -12,6 +12,7 @@ Prerequisites
 * `Python 3.7 <GCBMDevelopmentSetup/prerequisites.html>`_
 * `Microsoft Access Database Driver <prerequisites/microsoft_access_database_driver.html>`_
 * `Visual C++ Redistributable Packages <prerequisites/visual_c++_redistributable_packages.html>`_
+* You could have a look at the [*Prerequisites over here*](https://docs.moja.global/en/master/GCBMDevelopmentSetup/prerequisites.html)
 
 Now that you have all the necessary prerequisites, you can proceed with the Installation.
 
